@@ -137,7 +137,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         <td colspan="7" height="700">
             能吃苦耐劳，对待工作，学习，人生积极乐观。有坚毅的性格和强烈的责任心，集体荣誉感强
             诚实守信，具有团队协作能力，创新意识<br/>
-
         </td>
     </tr>
     <tr>
